@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=527e52"/><br/>
+<h3>
+  Áquila Morais
+  <img src="Stamps-Buttons/gif.gif" width="80"/>
+</h3>
 
-### **Áquila Morais**
 
 📫 atemoraiscosta88@gmail.com<br/>
 
@@ -67,6 +70,11 @@ _Graduando de Sistemas de informação e apreciador por tecnologia._
 
 ---
 
-
-
+<div align="center">
+  <img alt="minecraft" src="Stamps-Buttons/minecraft.png"/>
+  <img alt="cs" src="Stamps-Buttons/cs.gif"/>
+  <img alt="emailme" src="Stamps-Buttons/emailme.gif"/>
+  <img alt="PunkBuster" src="Stamps-Buttons/punkbuster.gif"/>
+  <img alt="marowak" src="Stamps-Buttons/marowak.png"/>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=527e52&section=footer"/>
