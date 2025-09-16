@@ -73,7 +73,6 @@ _Graduando de Sistemas de informação e apreciador da tecnologia._
 <div align="center">
   <img alt="minecraft" src="Stamps-Buttons/minecraft.png"/>
   <img alt="cs" src="Stamps-Buttons/cs.gif"/>
-  <img alt="emailme" src="Stamps-Buttons/emailme.gif"/>
   <img alt="PunkBuster" src="Stamps-Buttons/punkbuster.gif"/>
   <img alt="marowak" src="Stamps-Buttons/marowak.png"/>
 </div>
