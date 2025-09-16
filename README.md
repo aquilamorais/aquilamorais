@@ -68,7 +68,6 @@ _Graduando de Sistemas de informação e apreciador da tecnologia._
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
 </p><br/>
 
----
 
 <div align="center">
   <img alt="minecraft" src="Stamps-Buttons/minecraft.png"/>
