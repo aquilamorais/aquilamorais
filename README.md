@@ -9,7 +9,7 @@
 
 <div align="center">
 
-_Graduando de Sistemas de informação e apreciador por tecnologia._
+_Graduando de Sistemas de informação e apreciador da tecnologia._
 
 </div>
 
