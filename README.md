@@ -20,7 +20,9 @@ _Graduando de Sistemas de informação e apreciador da tecnologia._
 
   - 💬 Eu tenho 21 anos e estou graduando no curso de Sistemas de Informação na UNIFESSPA *[6/8]*.
 
-  - ⚡ Gosto de ler, desenhar e jogar. Possuo vários objetivos no mundo da programação e estou animado para concluir cada uma delas, uma longa jornada ainda. 
+  - ⚡ Gosto de ler, desenhar e jogar. Possuo vários objetivos no mundo da programação e estou animado para concluir cada uma delas, uma longa jornada ainda.
+
+  - 🧩 Ainda não possuo conhecimento suficiente para dar os primeiros passos sozinho, mas estou estudando para dar um upload ao primeiro nível.
 </details>
 
 ---
